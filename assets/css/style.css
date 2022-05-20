@@ -104,6 +104,12 @@ body {
     transition: all .3s ease-in-out;
   }
 
+  .navbar__btn button{
+    background-color:inherit ;
+  }
+
+  
+
   .navbar__list {
     flex-direction: column;
     opacity: 0;
